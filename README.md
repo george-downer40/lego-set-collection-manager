@@ -1,3 +1,83 @@
+# Lego Set Collection Manager
+
+
+
+## Table of Contents
+
+
+
+## UX
+
+### Agile Design Process
+### User Stories
+
+
+
+## Site Design
+
+### Wireframes
+### Colours
+### Fonts
+
+
+
+## Site Structure
+
+### Pages
+### Database Models
+
+
+
+
+## Technologies Used
+
+
+
+## Testing
+
+### Validation
+### User Story Tests
+### Bugs
+
+
+## Deployment
+
+
+
+## Credits
+
+
+
+## Acknowledgements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome George Downer,
